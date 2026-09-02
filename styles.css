@@ -1,6 +1,8 @@
 /* Add CSS styles for your web site here and use them in index.html. */
 html {
     font-family: sans-serif;
+    background: bisque;
+    background-attachment: fixed;
 }
 .pento-grid {
     display:grid;
