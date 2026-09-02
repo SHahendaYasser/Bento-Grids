@@ -11,7 +11,7 @@ html {
     background-color:bisque;
     border-radius: 2px;
     max-width: 900px;
-    min-height: 100hv;
+    min-height: 100vh;
     gap: 16px;
     margin: 0 auto;
 }
